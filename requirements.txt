@@ -1,0 +1,13 @@
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+tweepy
+wordcloud
+joblib
+
+Install dependencies using:
+pip install -r requirements.txt
